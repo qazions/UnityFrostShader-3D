@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Red
+  m_Shader: {fileID: 4800000, guid: 1204fe7c8c3f9fd4c90edaa16b7c95c0, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CrackTex:
+        m_Texture: {fileID: 2800000, guid: a69bb4df50b5eb44685c5f3e269b0408, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FrostTex:
+        m_Texture: {fileID: 2800000, guid: 0bd4551b6c8d5d448999eda226cb349b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IcicleBump:
+        m_Texture: {fileID: 2800000, guid: 5670569ba1fb4df469b7a7b792ce06ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IcicleMask:
+        m_Texture: {fileID: 2800000, guid: 81f97c5cfdd4395458b4d929944f884c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IcicleTex:
+        m_Texture: {fileID: 2800000, guid: 81f97c5cfdd4395458b4d929944f884c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c2b43be68a3db0543beaf327e3a1c176, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 6a968a0da7b68d842b64e8dac26ba7c3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _CrackGlowIntensity: 4.28
+    - _CrackIntensity: 0.168
+    - _Cutoff: 0.5
+    - _DepthEffect: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FreezeAmount: 1
+    - _FrostAmount: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _IcicleAmount: 1
+    - _IcicleDepth: 0.1
+    - _IcicleScale: 1
+    - _IcicleSharpness: 9.48
+    - _Metallic: 0.547
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OverlayIntensity: 0.558
+    - _Parallax: 0.02
+    - _ReflectionStrength: 0.5
+    - _Sharpness: 1
+    - _Smoothness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Transparency: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0, g: 0.84923697, b: 1, a: 1}
+    - _ColorTint: {r: 0, g: 0.6845889, b: 1, a: 1}
+    - _CrackColor: {r: 1, g: 1, b: 1, a: 0.6862745}
+    - _CrackGlowColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FrostColor: {r: 0.5, g: 0.5, b: 1, a: 1}
+    - _FrostTint: {r: 0.24056602, g: 0.4385727, b: 1, a: 1}
+    - _IceColor: {r: 0, g: 0.60655737, b: 1, a: 0.54509807}
+  m_BuildTextureStacks: []
